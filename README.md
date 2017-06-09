@@ -19,7 +19,7 @@ You have learned some valuable CSS properties along the way. You'll be using all
 * `border`
 * AND ANY MORE THAT YOU FIND HELPFUL! (remember google is your friend)
 
-If any of these seem unfamiliar or you forget what you do, don't hesitate to google! Developers look up things like this all the time. 
+If any of these seem unfamiliar or you forget what they do, don't hesitate to google! Developers look up things like this all the time. 
 Albert Einstein says: 
 > "Never memorize something that you can look up."
 
