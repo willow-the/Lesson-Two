@@ -18,7 +18,7 @@ You have learned some valuable CSS properties along the way. You'll be using all
 * `font-weight`
 * `font-style`
 * `border`
-* `opacity or `rgba()`
+* `opacity` or `rgba()`
 * AND ANY MORE THAT YOU FIND HELPFUL! (remember google is your friend)
 
 If any of these seem unfamiliar or you forget what they do, don't hesitate to google! Developers look up things like this all the time. 
