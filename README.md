@@ -2,7 +2,7 @@
 
 You have learned some valuable CSS properties along the way. You'll be using all of your knowledge to style the raw HTML in `index.html` to look like the screenshot below.
 
-## Your will probably include of the following properties:
+## Your CSS will probably include of the following properties:
 
 * `background-image`
 * `background-color`
