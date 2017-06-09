@@ -35,7 +35,7 @@ Of course, after using these over and over again, you'll begin to know them with
 * Start with the background image
 * Center the headings
 * Look at all the divs:
-  - Look at the first one
+  - Start with the first one
   - Put an id or class on it 
   - Pick out which part of the screenshot this div relates to
 * Background colors, padding, margin, and widths are good places to start
