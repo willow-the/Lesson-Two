@@ -12,6 +12,7 @@ You have learned some valuable CSS properties along the way. You'll be using all
 * `border`
 * `display` (hint! probably used with `inline-block`)
 * `vertical-align`
+* `text-align`
 * `color`
 * `font`
 * `font-weight`
