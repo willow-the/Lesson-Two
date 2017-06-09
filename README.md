@@ -31,5 +31,8 @@ Of course, after using these over and over again, you'll begin to know them with
 ![screenshot](/images/final-product.png)
 
 
-##### Helpful tips
-* One way to get transparent colors is by using rgba()
+##### AHHH I don't know where to start...
+* Start with putting in the background image
+* Center the headings
+* Look at all the divs, pick one and put an id or class on it. Then pick out which part of the screenshot this div relates to.
+* Background colors, padding, margin, and widths are good places to start
