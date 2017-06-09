@@ -32,7 +32,10 @@ Of course, after using these over and over again, you'll begin to know them with
 
 
 ##### AHHH I don't know where to start...
-* Start with putting in the background image
+* Start with the background image
 * Center the headings
-* Look at all the divs, pick one and put an id or class on it. Then pick out which part of the screenshot this div relates to.
+* Look at all the divs:
+  - Look at the first one
+  - Put an id or class on it 
+  - Pick out which part of the screenshot this div relates to
 * Background colors, padding, margin, and widths are good places to start
