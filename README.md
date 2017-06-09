@@ -39,3 +39,7 @@ Of course, after using these over and over again, you'll begin to know them with
   - Put an id or class on it 
   - Pick out which part of the screenshot this div relates to
 * Background colors, padding, margin, and widths are good places to start
+
+
+## EXTENSION
+Return to your recipe webpage and start styling!
