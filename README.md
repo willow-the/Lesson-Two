@@ -6,7 +6,7 @@ You have learned some valuable CSS properties along the way. You'll be using all
 
 * `background-image`
 * `background-color`
-* `padding` (hint! this may look like: `padding-top`, `padding-left`, `padding-right`)
+* `padding` (hint! this could look like: `padding-top`, `padding-left`, `padding-right`, `padding-bottom`)
 * `margin`
 * `width`
 * `border`
