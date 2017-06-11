@@ -1,5 +1,7 @@
 # THE BEAST – CSS
 
+[TERMINAL AND GITHUB help](https://github.com/hello-world-tech-studios/terminal-and-github-help)
+
 You have learned some valuable CSS properties along the way. You'll be using all of your knowledge to style the raw HTML in `index.html` to look like the screenshot below.
 
 ## Your CSS might include some of the following properties:
