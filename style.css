@@ -1,0 +1,14 @@
+body{
+  background-image: url("images/beast.jpg");
+background-size: 100%;
+}
+h1{
+text-align: center;
+}
+ul{
+width:30%;
+display:inline-block;
+ vertical-align: top;
+border-left: 1px solid black;
+}
+
