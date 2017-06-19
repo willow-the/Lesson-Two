@@ -1,9 +1,9 @@
 body {
   background-image: url(images/beast.jpg);
-  height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  /*background-position: center;*/
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
@@ -12,8 +12,9 @@ h1 {
 
 #top {
   width: 36%;
-  border: 1px solid grey;
   background-color: rgba(255,255,255,.5);
+  border-radius: 15px;
+  box-shadow: 5px 5px 2.5px grey;
 }
 
 #p, .form {
@@ -22,12 +23,18 @@ h1 {
 }
 
 #p {
-  border: 1px dotted green;
+  border: 8px dotted green;
   background-color: rgba(0,0,0,.5);
+  border-radius: 15px;
+  position: fixed;
+  right: 0px;
+  height: 160px;
+  padding-bottom: 10px;
 }
 
 p {
   color: white;
+  text-align: center;
 }
 
 label {
@@ -37,13 +44,36 @@ label {
 #submit {
   background-color: green;
   color: white;
+  margin-right: 50px;
+  border: none;
+  height: 50px;
+  width: 60px;
+}
+.Beast {
+  /*border-left: 1px solid black;*/
+  font-weight: bold;
+  margin-top: 10px;
 }
 
-form {
-
+h2 {
+  text-align: center;
 }
 
+#word {
+  width: 50%;
+  display: inline;
+}
 
+.list {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  border-left: 3px solid black;
+}
+
+.form {
+  display: block;
+}
 
 
 
