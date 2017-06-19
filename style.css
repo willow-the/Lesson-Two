@@ -2,11 +2,24 @@ body{
 background-image: url("images/beast.jpg");
  }
 h1, h2 {
-  text-align: center;
-}
-.quote{
+   text-align: center;
+} 
+#quote-box{
+ background-color: white;
+width:50%;
+padding:1%;
+/*border-left: 10px solid black;*/
 
-}
+
   
+}
+ .quote{
+display:inline-block;
+width:30%;
+border-left: 10px solid black;
+
+
+
+} 
 
 
