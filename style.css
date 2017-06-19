@@ -1,0 +1,17 @@
+h1{
+
+}
+body {
+  background-image: url("images/beast.jpg");
+  background-size: cover;
+}
+
+li{
+display: inline-block;
+vertical-align: top;
+border-left: 1px solid black;
+}
+
+div{
+opacity: 0.6;
+} 
