@@ -1,6 +1,18 @@
 h1{
+text-align: center;
+}
+h2{
+text-align: center;
+}
+p{
+color: white;
+text-align: center;
+padding-top: 60px;
 
 }
+
+
+
 body {
   background-image: url("images/beast.jpg");
   background-size: cover;
@@ -10,8 +22,20 @@ li{
 display: inline-block;
 vertical-align: top;
 border-left: 1px solid black;
+width: 30%;
 }
 
-div{
-opacity: 0.6;
+.One{
+  background-color:rgba(255, 255, 255, 0.7);
+  width: 400px;
+  height: 200px;
+  border:3px solid grey;
 } 
+
+.two{
+background-color: rgba(0, 0, 0, 0.7); 
+width: 400px;
+height: 300px;
+margin-left: 800px;
+
+}
