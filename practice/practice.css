@@ -1,0 +1,13 @@
+h1, h2 {
+      color: pink;
+}
+
+  #puppy-box {
+      border: 1px solid black;
+      padding:  20px;
+      margin: 50px;
+  }
+
+  .reason{
+      width:  30px;
+  }
