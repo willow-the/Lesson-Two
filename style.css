@@ -14,8 +14,28 @@ li{
 #ok{
 width:600px ;
 background-color: rgba(255,255,255,.5);
-
+text-align: center;
 }
 #pq{
-background-color: rgba(0,0,0,.5);
+  background-color: rgba(0,0,0,.25);
+  width:450px;
+  text-align:center;
+  height: 200px;
+  vertical-align: middle;
+  border-color: green;
+  border-style:dotted;
+  position:relative;
+  left:65%;
+  top:90%;
+}
+#button{
+background-color:green;
+position:relative;
+left:150px;
+top:50px;
+}
+#hi{
+position:relative;
+top:50px;
+
 }
