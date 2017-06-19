@@ -1,0 +1,51 @@
+body {
+  background-image: url(images/beast.jpg);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+   text-align: center;
+}
+
+#top {
+  width: 36%;
+  border: 1px solid grey;
+}
+
+#p, .form {
+  width: 36%;
+  text-align: right;
+}
+
+#p {
+  border: 1px dotted green;
+  background-color: rgba(0,0,0,.5);
+}
+
+p {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+#submit {
+  background-color: green;
+  color: white;
+}
+
+form {
+  display: inline;
+}
+
+
+
+
+
+
+
+
