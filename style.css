@@ -1,5 +1,10 @@
+*{
+  font-size:21px;
+}
+
 h2{
   text-align: center;
+  font-weight: bold;
 }
 
 body{
@@ -9,23 +14,65 @@ body{
 
 h1{
   text-align: center;
-  
+  font-size:45px;
 }
 
 #div1{
   text-align: left;
-  border: 4px outset grey;
+  border: 4px outset rgba(188, 188, 188, 1);
   border-radius: 10px;
   padding: 10px 30px;
   display: block;
   border-width:36%;
   background-color:rgba(255, 255, 255, .75);
   width:33%;
+  box-shadow: 10px;
 }
 
 li{
   width: 30%;
   display: inline-block;
-  border-left:1px solid black;
-  vertical-align:top;
+  border-left:4px solid black;
+  vertical-align:top
   }
+
+.Beasts{
+  font-weight: bold;
+}
+
+#div2{
+  border:10px dotted rgba(37, 77, 44, 1);
+  text-align: right;
+  width:27%;
+  margin-left: 68%;
+  background-color:rgba(0, 0, 0, .5);
+  padding: 1% 2%;
+  border-radius: 5px;
+  margin-bottom:10%;
+  margin-top: 1%;
+  padding-bottom:3%;
+}
+
+.input{
+  text-align:left;
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+  color:white;
+}
+
+input[type=text]{
+
+}
+
+label{
+  color:white;
+}
+
+input[type=submit]{
+  background-color:green;
+  color:white;
+  border:0px;
+}
