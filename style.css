@@ -6,21 +6,32 @@ body {
 h1, h2 {
   text-align: center;
 }
-  #firstdiv {
+ .firstDiv {
   background-color: rgba(255, 255, 255, 0.7);
   vertical-align: top;
   width: 50%;
   border-left: 1px solid black;
 }
-.beastqoutes  {
-  display: inline-block;
+.secondDiv {
+  background-color: rgba(0, 0, 0, .5);
   vertical-align: top;
-  border-left: 2px solid black;
+  width: 50%;
+  border-style: dotted;
+  border-color: green;
+  color: white;
 }
-h2, ul {
-  width: 300px;
-  border: 1px grey;
-  padding: 25px;
-  margin: 25px;
-}    
+ li {
+  display: inline-block;
+  border-left: 1px solid black;
+  width: 30%;
+  vertical-align: top;
+}  
+  .greenText {
+  background-color: green;
+  border: none;
+}
+  .one {
+  font-weight: bold;
+} 
+
 
