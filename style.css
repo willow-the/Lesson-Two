@@ -1,0 +1,10 @@
+body {
+  background-image: url(images/beast.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1, h2 {
+  text-align: center;
+}
+  #firstdiv {
+  background-color: rgba(125,206,250)
