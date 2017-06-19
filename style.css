@@ -1,7 +1,8 @@
 body{
     background-image: url(https://github.com/hello-world-tech-studios/monday-PM/blob/master/images/beast.jpg?raw=true);
     background-size: cover;
-    back
+    background-repeat: no-repeat;
+    
 }
 h1{
     text-align: center;
@@ -9,11 +10,50 @@ h1{
 
 #Beast-box{
     border: 1px solid white;
+    border-radius: 25px;
     padding: 20px;
     margin: 50px;
-    
+    background-color: white;
+    width: 33%;
+    height: 15%;
+    opacity: 0.7;
+    box-shadow: 5px 5px 5px #888888
+      
 }
 .quote{
+    width: 30%;
     display: inline-block;
+    border-left: 3px solid black ;
+    vertical-align: top;
 }
 
+#Beast{
+    font-weight: bold;
+    border-left: 1px;
+    line-height: 200%;
+}
+
+#Sign-up{
+    margin-left: 700px; 
+    border: 10px green dotted;
+    background-color: black;
+    opacity: 0.5;
+    
+}   
+
+#enter{
+    padding-left: 250px;
+    
+}
+
+p{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+#close{
+    background-color: green;
+}
