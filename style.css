@@ -1,6 +1,6 @@
 body {
   background-image: url("images/beast.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -10,20 +10,50 @@ h1, h2 {
 
 #first-div {
   background-color: rgba(255, 255, 255, 0.7); 
-  width: 50%
+  width: 45%;
+  height: 30%;
+  border-radius: 10px;
+  box-shadow: 2px 2px gray;
 }
 
 .beastquotes {
   display: inline-block;
   vertical-align: top;
+  background-size: contain;
   border-left: 2px solid black;
 }
 
 .beastname {
-  padding-top: 20px;
+  padding-top: 15%;
   font-weight: bold;
 }
 
 #viewer-response {
+  padding: 30px 15px;
   background-color: rgba(0, 0, 0, 0.5);
+  margin-left: 70%;
+  border: 5px dotted green;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.input-text {
+  color: white;
+  padding-left: 1%;
+  text-align: right;
+  padding-right: 60%;
+  padding-bottom: 2%;
+}
+
+#buttonpress {  
+  padding: 2% 2%;
+  font-size: 70%;
+  border: 0px;
+  margin-left: 80%;
+  background-color: green;
+  color: white;
 }
