@@ -1,5 +1,22 @@
 # THE BEAST – CSS
 
+#### Practice directions
+#### Let's make some CSS changes:
+
+* Change the color of h1 and h2 to pink
+
+##### CSS for "puppy-box" 
+* Put a border around it
+* Add 20 pixels of padding
+* Add 50 pixels of margin
+
+
+##### CSS for "reason"
+* Set the widths to 30%
+* Set display to inline-block
+* Set vertical-align to the top
+* Add a border-left 
+
 [TERMINAL AND GITHUB help](https://github.com/hello-world-tech-studios/terminal-and-github-help)
 
 You have learned some valuable CSS properties along the way. You'll be using all of your knowledge to style the raw HTML in `index.html` to look like the screenshot below.
