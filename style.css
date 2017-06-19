@@ -1,14 +1,21 @@
 body{
   background-image: url("images/beast.jpg");
-background-size: 100%;
+  background-size: 100%;
 }
 h1{
-text-align: center;
+  text-align: center;
 }
-ul{
-width:30%;
-display:inline-block;
- vertical-align: top;
-border-left: 1px solid black;
+li{
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  border-left: 1px solid black;
 }
+#ok{
+width:600px ;
+background-color: rgba(255,255,255,.5);
 
+}
+#pq{
+background-color: rgba(0,0,0,.5);
+}
