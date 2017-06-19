@@ -73,7 +73,8 @@ label{
 }
 
 input[type=submit]{
-  background-color:green;
+  background-color:rgba(37, 81, 44, 1);
   color:white;
   border:0px;
+  padding: 10px 10px;
 }
