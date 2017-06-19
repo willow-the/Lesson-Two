@@ -1,19 +1,29 @@
 body {
   background-image: url("images/beast.jpg");
   background-size: 100%;
-background-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
 
 h1, h2 {
   text-align: center;
 }
 
-#firstDiv {
+#first-div {
   background-color: rgba(255, 255, 255, 0.7); 
-  /*margin-right: 0%;
-  display: inline-block;*/
+  width: 50%
 }
 
-.beast {
+.beastquotes {
   display: inline-block;
+  vertical-align: top;
+  border-left: 2px solid black;
+}
+
+.beastname {
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+#viewer-response {
+  background-color: rgba(0, 0, 0, 0.5);
 }
