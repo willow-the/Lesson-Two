@@ -1,0 +1,76 @@
+.beast {
+  background-color: white;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 9px;
+  width: 450px;
+  height: 200px;
+  padding: 13px;
+  box-shadow: 3px 4px 2px black;
+
+}
+
+.beast ul li {
+  list-style-type: none;
+  display: table-cell;
+  padding-left: 10px;
+  padding-right: 10px;
+  -webkit-column-rule-style: solid;
+  border-left: solid black;
+  line-height: 140%;
+}
+
+.beast div {
+  font-weight: bold;
+}
+
+body {
+  background-image: url("images/beast.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100% 100%;
+  font-family: 'helvetica neue';
+}
+
+#button input{
+  background-color: green;
+  color: white;
+  border:none;
+  padding: 10px;
+  position: relative;
+  left: 100px;
+  top: 20px;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.name_beast {
+  float: right;
+  border: 10px dotted black;
+  border-color:green;
+  background: red;
+  width: 400px;
+  height: 200px;
+  background: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  border-radius: 9px;
+  line-height: 200%;
+  color: white;
+}
+
+.name_beast p {
+  position: relative;
+  right: 20px;
+}
+
+#fields {
+  position: relative;
+  right: 70px;
+}
