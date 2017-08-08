@@ -1,0 +1,40 @@
+/*background image*/
+body {
+  background-image: url("images/beast.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+h1{
+  text-align: center;
+  font:bold 45px/1 sans-serif;
+}
+
+h2{
+  text-align: center;
+  font:bold 20px/1 sans-serif;
+}
+
+.mooo {
+  border: solid white;
+  background-color: white;
+  opacity: 0.79;
+  width: 600px;
+  border-radius: 2%;
+  box-shadow: 6px 5px 5px 5px darkgrey;
+}
+
+.stuff{
+  width: 15%;
+  display: inline-block;
+  vertical-align: top;
+  border-left: solid black;
+  padding: 20px;
+  font-style: italic;
+}
+
+.boldness {
+  padding-top: 20px;
+  font-weight: bold;
+  font:bold 15px/1 sans-serif;
+}

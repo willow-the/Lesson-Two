@@ -15,5 +15,6 @@ h2 {
   width: 30%;
   display: inline-block;
   vertical-align: top;
-  border: left;
+  border-left: solid black;
+  padding: 10px;
 }
