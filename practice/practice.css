@@ -1,0 +1,19 @@
+h1 {
+  color: pink;
+}
+h2 {
+  color: hotpink;
+}
+
+#puppy-box {
+  border: solid blue;
+  padding: 20px;
+  margin: 50px;
+}
+
+.reason {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  border: left;
+}
